@@ -1,0 +1,30 @@
+{
+  "name": "knockout.mapper",
+  "version": "0.1.0",
+  "description": "An extensible and fast object mapping plugin for KnockoutJS",
+  "main": "knockout.mapper.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLorentz/knockout.mapper.git"
+  },
+  "keywords": [
+    "knockout",
+    "knockoutjs",
+    "mapper",
+    "mapping",
+    "plugin",
+    "toJS",
+    "fromJS"
+  ],
+  "author": "Lucas Lorentz",
+  "bugs": {
+    "url": "https://github.com/LucasLorentz/knockout.mapper/issues"
+  },
+  "homepage": "https://github.com/LucasLorentz/knockout.mapper#readme"
+}
